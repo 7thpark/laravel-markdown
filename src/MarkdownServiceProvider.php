@@ -14,7 +14,6 @@
 namespace Indal\Markdown;
 
 use Blade;
-use Parsedown;
 use Indal\Markdown\Parser;
 use Illuminate\Support\ServiceProvider;
 use Indal\Markdown\Drivers\ParsedownDriver;
